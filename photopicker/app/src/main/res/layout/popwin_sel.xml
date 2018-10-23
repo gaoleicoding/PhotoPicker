@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_66000000"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/shape_corner_white"
+        android:orientation="vertical">
+
+        <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="center"-->
+        <!--android:paddingTop="10dp"-->
+        <!--android:paddingBottom="10dp"-->
+        <!--android:textSize="16sp"-->
+        <!--android:textColor="@color/black"-->
+        <!--android:text="请选择图像"/>-->
+        <!--<View-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="1dp"-->
+        <!--android:background="@color/color_d0d0d0"/>-->
+        <TextView
+            android:id="@+id/btn_first"
+            style="@style/photo_txt_14sp"
+            android:text="相机"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_d0d0d0" />
+
+        <TextView
+            android:id="@+id/btn_second"
+            style="@style/photo_txt_14sp"
+            android:text="相册"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_d0d0d0" />
+
+        <TextView
+            android:id="@+id/btn_third"
+            style="@style/photo_txt_14sp"
+            android:text="取消"
+            />
+    </LinearLayout>
+
+
+</RelativeLayout>

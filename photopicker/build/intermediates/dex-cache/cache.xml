@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_63c9d2cefefb929f638f73d47061027342d38c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.0_f3ad62c3535f6afce8d9619490188d103c48446b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/exploded-aar/com.zhy/percent-support-extends/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29ff8e178d6ef33c8673f430651500068642f833">
+        <dex dex="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/pre-dexed/debug/com.zhy-percent-support-extends-1.1.1_32f7f7bfe6d51303e45f8310093f47c9a6353694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.0_175e03754956faf3c55f4c0742e96ae6ed930a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.0_51c1746da5ff5f6c46b9c3e9f330ad5854d725d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.0_cdc2ce6ab49d10bc150b16b96889102bf1c1b0f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.0_00dc39dc598269467b9cf7f6965fe24aea90f1b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/exploded-aar/com.zhy/percent-support-extends/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29ff8e178d6ef33c8673f430651500068642f833">
+        <dex dex="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/pre-dexed/debug/com.zhy-percent-support-extends-1.1.1_f7cfbfd14a2b6971789a522ed5b42ab30401b58c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.0_e5be744d20832134c7f346e3de81ddd85f0fab16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.0_5c55f2a65f4dbc8b3c42924bc11d4aa59ba602a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.0_1499be43c59e040e4d14e39722f798cdd69de980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.0_349946977da24714f39feaab9ec863267c460e3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.0_3ac28ac2a2881ece3e97f62434b7b1c50ca19bc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.0_c1d72a6e939929671ea709de0557d0a04df9dd57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.0_b3af97ebf7a3b96a1f242f3402c2b2f57b2300dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.0_63eecd5b68346821fac6630c340625248802d0ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.0_9846f62ad86a8f5c5b4d785a723e9d5ed10ca895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.0_da14c13b30a1fc68cd644d62c8c86af3c60ccf1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.0_cb4ea413e37af9c1e2628fe9f3a1090507c87e80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/GaoLei/gaolei/Android/Github/PhotoPicker/photopicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.0_6e04367803092343d52793df40b5c4cbe4f516f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/GaoLei/gaolei/Android/Note/Photo/CameraDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.0_25586275c583b62b2ad87f73a1e034ba0da536c7.jar" />
+    </item>
+
+</items>
