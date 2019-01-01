@@ -24,10 +24,7 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Created by fuh on 2017/5/4.
- * Email：unableApe@gmail.com
- */
+
 
 public class ImageUtils {
     //原图像 路径
@@ -39,7 +36,7 @@ public class ImageUtils {
     //裁剪图像 URI
     public Uri imgUriCrop;
     public PopupWindow popWinChoose;
-    public static final String TAG = "CameraDemo_MainActivity";
+    public static final String TAG = "ImageUtils";
     public static final int REQUEST_OPEN_CAMERA = 0x011;
     public static final int REQUEST_OPEN_GALLERY = 0x022;
     public static final int REQUEST_CROP_PHOTO = 0x033;
@@ -172,8 +169,6 @@ public class ImageUtils {
             //                String packageName = resolveInfo.activityInfo.packageName;
             //                grantUriPermission(packageName, imgUriOri, Intent.FLAG_GRANT_WRITE_URI_PERMISSION | Intent.FLAG_GRANT_READ_URI_PERMISSION);
             //            }
-            Log.i(TAG, "openCamera_imgPathOri:" + imgPathOri);
-            Log.i(TAG, "openCamera_imgUriOri:" + imgUriOri.toString());
         }
     }
 
@@ -227,8 +222,6 @@ public class ImageUtils {
             intent.setFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION | Intent.FLAG_GRANT_WRITE_URI_PERMISSION);
             activity.startActivityForResult(intent, REQUEST_CROP_PHOTO);
 
-            Log.i(TAG, "cropPhoto_imgPathCrop:" + imgPathCrop.toString());
-            Log.i(TAG, "cropPhoto_imgUriCrop:" + imgUriCrop.toString());
         }
     }
 

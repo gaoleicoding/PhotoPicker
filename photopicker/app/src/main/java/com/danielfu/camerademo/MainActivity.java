@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity  {
 
     ImageView ivImage;
 
-    private static final String TAG = "CameraDemo_MainActivity";
+    private static final String TAG = "MainActivity";
 
     private static final int REQUEST_OPEN_CAMERA = 0x011;
     private static final int REQUEST_OPEN_GALLERY = 0x022;
@@ -141,6 +141,7 @@ public class MainActivity extends AppCompatActivity  {
                 revokeUriPermission(imageUtils.imgUriCrop, Intent.FLAG_GRANT_READ_URI_PERMISSION | Intent.FLAG_GRANT_WRITE_URI_PERMISSION);
                 Log.i(TAG, "cropPhotoResult_imgPathCrop:" + imageUtils.imgPathCrop);
                 Log.i(TAG, "cropPhotoResult_imgUriCrop:" + imageUtils.imgUriCrop.toString());
+                Toast.makeText(this,"剪切后图片路径（获取到图片路径后就可以上传到服务器）："+ imageUtils.imgPathCrop, Toast.LENGTH_LONG).show();
                 break;
         }
     }

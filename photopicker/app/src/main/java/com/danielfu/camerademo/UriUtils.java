@@ -10,10 +10,7 @@ import android.os.Environment;
 import android.provider.DocumentsContract;
 import android.provider.MediaStore;
 
-/**
- * Created by fuh on 2017/5/4.
- * Email：unableApe@gmail.com
- */
+
 
 public class UriUtils {
     /**
